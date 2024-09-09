@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 <div align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E3F32F,100:5AD958&height=250&section=header&text=JeongIn%20GitHub&fontColor=FFFFFF" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E3F32F,100:5AD958&height=250&section=header&text=MinYeong%20GitHub&fontColor=FFFFFF" />
 </div>
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
